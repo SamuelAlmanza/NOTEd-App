@@ -7,12 +7,13 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  /* background: #edf6f9; */
+  background-image: url(https://images.unsplash.com/photo-1627037558426-c2d07beda3af?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1275&q=80);
   padding: 0 16px;
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #83c5be;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -33,7 +34,7 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: white;
 }
 .note {
   background: #fff;
