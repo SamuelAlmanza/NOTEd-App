@@ -1,6 +1,6 @@
-#NOTEd# 
+#NOTEd
 
-NOTEd is a note taking app created using React JS. The app responds to user inputs through the use of UseState Hooks. 
+##NOTEd is a note taking app created using React JS. The app responds to user inputs through the use of UseState Hooks. 
 
 Click the input field to type a title for your first note, then click the + button to add your first note. 
 
